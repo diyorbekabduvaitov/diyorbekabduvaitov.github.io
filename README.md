@@ -20,6 +20,7 @@ Bu faqat kompyuteringizdagi ko'rish; internetga nashr etmaydi.
 - `script.js` — o'zbekcha tarjimalar, tilni saqlash va mobil menyu.
 - `assets/diyorbek-abduvaitov-resume.pdf` — foydalanuvchi bergan original rezyume.
 - `assets/favicon.svg` — brauzer yorlig'idagi belgi.
+- `assets/diyorbek-abduvaitov-portrait.jpg` — foydalanuvchi bergan portret surat.
 - `robots.txt`, `sitemap.xml` — qidiruv tizimlari uchun ma'lumot.
 - `.nojekyll` — GitHub Pages fayllarni oddiy statik sayt sifatida xizmat qilishi uchun.
 - `.gitignore` — vaqtinchalik va maxfiy fayllarni Git tarixiga qo'shmaslik qoidalari.
