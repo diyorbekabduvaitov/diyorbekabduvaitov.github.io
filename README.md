@@ -40,7 +40,7 @@ Mazmun foydalanuvchi taqdim etgan rezyumega asoslangan. Ish tajribasi, til daraj
 - Laboratoriyalar uchun repository yoki write-up havolalari berilmagan. Rasmlar CSS bilan yaratilgan sxemalar, haqiqiy skrinshotlar emas.
 - Sertifikat nomlari rezyumedan olindi, tasdiqlash havolalari berilmagan.
 - PDF original holida nusxalangan: unda telefon raqami va email mavjud. Internetga chiqarishdan oldin foydalanuvchi PDF mazmunini tekshirishi kerak.
-- Aloqa bo'limidagi email havolasi pochta dasturini ochadi; backend yoki xabar yuborish formasi yo'q.
+- Aloqa bo'limidagi “Gmail” havolasi pochta dasturini ochadi; manzil HTMLdagi `mailto:` havolasida va PDF rezyumeda mavjud.
 - Headerda Diyorbek Abduvaitov ismi ko‘rsatiladi.
 
 ## GitHub Pages
